@@ -1,0 +1,61 @@
+/// AJAX ///
+
+<iframe src="https://www.youtube.com/embed/tp3Gw-oWs2k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+AJAX Tutorial - 1
+Introduction to AJAX
+
+<iframe src="https://www.youtube.com/embed/1RLW7a8Gr4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+AJAX Tutorial - 2
+Some Examples of AJAX
+
+<iframe src="https://www.youtube.com/embed/bW3Ys2pcfug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+AJAX Tutorial - 3
+Creating the Beautiful User Interface
+
+
+<iframe src="https://www.youtube.com/embed/Q1xJ4m7fPSg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+AJAX Tutorial - 4
+Generating the XML File
+
+
+<iframe src="https://www.youtube.com/embed/AlZbs693EmM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+AJAX Tutorial - 5
+Creating the Content for the XML File
+
+
+<iframe src="https://www.youtube.com/embed/r80S2CnCjLs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+AJAX Tutorial - 6
+XMLHttpRequest
+
+
+
+/// JAVASCRIPT ///
+
+<iframe src="https://www.youtube.com/embed/0ik6X4DJKCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+JavaScript DOM Crash Course
+Part 1
+
+<iframe src="https://www.youtube.com/embed/mPd2aJXCZ2g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+JavaScript DOM Crash Course
+Part 2
+
+<iframe src="https://www.youtube.com/embed/wK2cBMcDTss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+JavaScript DOM Crash Course
+Part 3
+
+<iframe src="https://www.youtube.com/embed/i37KVt_IcXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+JavaScript DOM Crash Course
+Part 4 [Final Project]
+
+<iframe src="https://www.youtube.com/embed/Bv_5Zv5c-Ts" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+JavaScript: Understanding the Weird Parts
+The First 3.5 Hours
+
+<iframe src="https://www.youtube.com/embed/b1ieJtIx1NY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+How Javascript works
+Designveloper
+
+
+
+
+
